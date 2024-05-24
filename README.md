@@ -1,7 +1,9 @@
 ## Welcome to Alfonso Tejeda's Profile 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+in+Python+and+C%23+;Passionate+about+Artificial+Intelligence" alt="Typing SVG" /></a>
-<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3o2d3NwZDBqbmsyaGZidzJuZDRwcmN3YTZ2dmtxY3FmdmYyajIxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ## About Me
 <ul>
