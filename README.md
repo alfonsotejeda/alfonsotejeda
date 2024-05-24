@@ -1,24 +1,33 @@
-hola
+## Welcome to Alfonso Tejeda's Profile 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+in+Python+and+C%23+;Passionate+about+Artificial+Intelligence" alt="Typing SVG" /></a>
+<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+## About Me
+<ul>
+  <li>👋 Hi, I'm <a href="alfonsotejeda">Alfonso Tejeda</a></li>
+  <li>❤️ I love programming in Python.</li>
+  <li>🌱 Currently, I'm learning Web Development, Android Development, C++, CSS3, HTML, Python, and JS.</li>
+  <li>💼 I'm a student.</li>
+</ul>
+
+## 
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/alfonsotejeda">Alfonso Tejedas</a>'s Profile 👋</h1>
+<a href="https://github.com/alfonsotejeda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfonsotejeda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfonsotejeda&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desarrollador+en+Python+y+C%23+;Apasionado+a+la+Inteligencia+Artificial)](https://git.io/typing-svg)t="Night Coding" src="" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+##
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+### 🐍 &nbsp;That's How Commits Move ...
+
+<div align="center">
+  <a href="https://github.com/alfonsotejeda/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
