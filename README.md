@@ -38,7 +38,7 @@
 ### 🐍 &nbsp;That's How Commits Move ...
 
 <div align="center">
-  <a href="https://github.com/alfonsotejeda/">
+  <a href="https://github.com/alfonsotejeda">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
