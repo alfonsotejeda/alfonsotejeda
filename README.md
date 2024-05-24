@@ -1,9 +1,12 @@
 ## Welcome to Alfonso Tejeda's Profile 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+in+Python+and+C%23+;Passionate+about+Artificial+Intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+in+Python+and+C%23+;Passionate+about+Artificial+Intellige" alt="Typing SVG" /></a>
 
 
 <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3o2d3NwZDBqbmsyaGZidzJuZDRwcmN3YTZ2dmtxY3FmdmYyajIxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
+
+
+
 
 ## About Me
 <ul>
@@ -23,6 +26,19 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfonsotejeda&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+##
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,github,html,js,linux,md,py,vscode&perline=14" />
+</p>
+
 
 ##
 
