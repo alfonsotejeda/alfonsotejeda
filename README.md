@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I'm <a href="alfonsotejeda">Alfonso Tejeda</a></li>
   <li>❤️ I love programming in Python.</li>
-  <li>🌱 Currently, I'm learning Web Development, C++, CSS3, HTML, Python, and JS.</li>
+  <li>🌱 Currently, I'm learning C#.</li>
   <li>💼 I'm a student.</li>
 </ul>
 
