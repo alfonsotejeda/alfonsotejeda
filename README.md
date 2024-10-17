@@ -14,11 +14,13 @@
 ## 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=algolia&border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false&layout=compact)
-##
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=algolia&border=false">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
 
 ## Programming languages 👨🏽‍💻
 <img src="https://skillicons.dev/icons?i=cpp,css,html,js,md,py,dart,latex&perline=14" />
@@ -27,13 +29,6 @@
 <img src="https://skillicons.dev/icons?i=github,git,vscode,apple,flutter,blender,obsidian&perline=14" />
 
 
-
-##
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alfonsotejeda&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=alfonsotejeda&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
