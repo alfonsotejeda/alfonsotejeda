@@ -14,9 +14,9 @@
 ## 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=algolia_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=algolia_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=algolia_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=algolia&border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false&layout=compact)
 ##
 
 
