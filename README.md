@@ -16,10 +16,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/alfonsotejeda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfonsotejeda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfonsotejeda&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ##
@@ -34,3 +33,24 @@
 
 
 ##
+
+
+
+# 💫 About Me:
+alfonsotejeda
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alfonsotejeda&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alfonsotejeda&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
