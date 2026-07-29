@@ -1,34 +1,49 @@
+<h1 align="center">Alfonso Tejeda</h1>
 
-<h1 align=center> Welcome to Alfonso Tejeda's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-  
-<h2 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things" alt="Typing SVG" /></a></h2>
+<p align="center">
+  Fullstack developer &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; MongoDB
+  <br>
+  <sub>Computer Science student at the University of Havana</sub>
+</p>
 
-## About Me
-<ul>
-  <li>👋 Hi, I'm <a href="alfonsotejeda">Alfonso Tejeda</a></li>
-  <li>❤️ I love programming in Python.</li>
-  <li>🌱 Currently, I'm learning C#.</li>
-  <li>💼 I'm a student.</li>
-</ul>
+---
 
-## 
+I work on a B2B platform at Wamasol-Tech — FastAPI, async MongoDB and Valkey on
+the backend, React + Vite on the frontend. The backend is where I focus.
 
-### ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsotejeda&theme=algolia&border=false">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsotejeda&theme=algolia&border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
+Interested in graph theory and combinatorial optimisation.
 
-## Programming languages 👨🏽‍💻
-<img src="https://skillicons.dev/icons?i=cpp,css,html,js,md,py,dart,latex,cs&perline=14" />
+<br>
 
-## Software & Tools ⚒️
-<img src="https://skillicons.dev/icons?i=github,git,vscode,apple,flutter,blender,obsidian&perline=14" />
+## Stack
 
+|              |                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------- |
+| **Backend**  | <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,redis,docker&perline=14" height="40">   |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,html,css&perline=14" height="40">                 |
+| **Tooling**  | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" height="40">                 |
 
-[![](https://visitcount.itsvg.in/api?id=alfonsotejeda&icon=0&color=1)](https://visitcount.itsvg.in)
+Also work with C++, C# and LaTeX.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<!-- ## Projects
+
+### [project-name](https://github.com/alfonsotejeda/project-name)
+What it does, in one sentence. The one technically interesting thing about
+building it, in another.
+`Python` `FastAPI` `MongoDB` · [Live demo](https://your-url)
+
+### [project-name](https://github.com/alfonsotejeda/project-name)
+What it does, in one sentence. The one technically interesting thing about
+building it, in another.
+`Python` `FastAPI` `MongoDB`
+
+-->
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:your@email.com">Email</a>
+</p>
