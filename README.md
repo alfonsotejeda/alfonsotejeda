@@ -1,4 +1,4 @@
-[<h1 align="center">Alfonso Tejeda</h1>
+<h1 align="center">Alfonso Tejeda</h1>
 
 <p align="center">
   Fullstack developer &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; MongoDB
