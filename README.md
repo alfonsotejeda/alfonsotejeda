@@ -1,50 +1,42 @@
 <h1 align="center">Alfonso Tejeda</h1>
 
 <p align="center">
-  Fullstack developer &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; MongoDB
-  <br>
-  <sub>Computer Science student at the University of Havana</sub>
+  Backend developer &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; MongoDB
 </p>
 
 ---
 
-I work on a B2B platform at Wamasol-Tech — FastAPI, async MongoDB and Valkey on
-the backend, React + Vite on the frontend. The backend is where I focus.
+I build backend services for a B2B tourism platform in production at Wamasol-Tech:
+REST APIs with FastAPI and async Python, MongoDB with Motor and Beanie, and Valkey
+as a caching layer.
 
-Interested in graph theory and combinatorial optimisation.
+Background in Computer Science at the University of Havana. Interested in graph
+theory, combinatorial optimisation, data engineering and sports analytics.
 
-<br>
+Based in Spain.
 
 ## Stack
 
-|              |                                                                                                   |
-| ------------ | ------------------------------------------------------------------------------------------------- |
-| **Backend**  | <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,redis,docker&perline=14" height="40">   |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,html,css&perline=14" height="40">                 |
-| **Tooling**  | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" height="40">                 |
+|              |                                                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Backend**  | <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,redis,docker&perline=14" height="40" alt="Python, FastAPI, MongoDB, Redis, Docker">     |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,vite&perline=14" height="40" alt="TypeScript, React, Vite">                                       |
+| **Tooling**  | <img src="https://skillicons.dev/icons?i=git,github,linux,cpp&perline=14" height="40" alt="Git, GitHub, Linux, C++">                                |
 
-Also work with C++, C# and LaTeX.
-
-<br>
+<sub>Python · FastAPI · MongoDB (Motor, Beanie) · Valkey / Redis · REST APIs · Docker · Git · Linux · React · TypeScript · C++</sub>
 
 <!-- ## Projects
 
 ### [project-name](https://github.com/alfonsotejeda/project-name)
 What it does, in one sentence. The one technically interesting thing about
 building it, in another.
-`Python` `FastAPI` `MongoDB` · [Live demo](https://your-url)
-
-### [project-name](https://github.com/alfonsotejeda/project-name)
-What it does, in one sentence. The one technically interesting thing about
-building it, in another.
-`Python` `FastAPI` `MongoDB`
+`Python` `FastAPI` `PostgreSQL` · [Live demo](https://your-url)
 
 -->
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/alfonsotejeda">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:TU_CORREO_NUEVO">Email</a>
 </p>
-](http://wiki.restelhotels.com/en/home)
