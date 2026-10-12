@@ -38,5 +38,5 @@ building it, in another.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alfonsotejeda">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:alfonso.tejeda.dev@gmail.com">Email</a>
+  <a href="mailto:alfonso.tejeda.dev@gmail.com">alfonso.tejeda.dev@gmail.com</a>
 </p>
